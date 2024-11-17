@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista de compra</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="EditTextNombreHint">Nombre del producto</string>
+    <string name="EditTextCantidadHint">cantidad</string>
+    <string name="BtnAñadir">Añadir producto</string>
+</resources>
